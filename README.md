@@ -1,11 +1,11 @@
 # Post Fix Calculator
 This is a post fix calculator, also called a Reverse Polish Notation Calculator
-or RPN. It utilizes a stack. It supports integers and decimals. Its supported
+or RPN. It utilizes a std::stack. It supports integers and decimals. Its supported
 operations are:
-multiplication: *
-division: /
-addition: +
-subtraction: -
+-multiplication: *
+-division: /
+-addition: +
+-subtraction: -
 
 
 ##Compilation:
